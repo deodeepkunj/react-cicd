@@ -10,6 +10,7 @@ function App() {
         <p>
           Learning <code>CI/CD</code> pipeline with react app.
         </p>
+        <span>Testig the deployment 2</span>
       </header>
     </div>
   );
